@@ -12,6 +12,8 @@ NODES=(
     "https://github.com/coreyryanhanson/ComfyQR"
     "https://github.com/coreyryanhanson/ComfyQR-scanning-nodes"
     "https://github.com/ltdrdata/ComfyUI-Impact-Subpack"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/shadowcz007/comfyui-mixlab-nodes"
     "https://github.com/DawgZter/was-node-suite-comfyui"
     
 )
