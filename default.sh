@@ -15,6 +15,7 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/shadowcz007/comfyui-mixlab-nodes"
     "https://github.com/DawgZter/was-node-suite-comfyui"
+    "https://github.com/jags111/efficiency-nodes-comfyui"
     
 )
 
