@@ -16,6 +16,7 @@ NODES=(
     "https://github.com/shadowcz007/comfyui-mixlab-nodes"
     "https://github.com/DawgZter/was-node-suite-comfyui"
     "https://github.com/jags111/efficiency-nodes-comfyui"
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
     
 )
 
