@@ -27,7 +27,9 @@ CHECKPOINT_MODELS=(
 LORA_MODELS=(
     "https://civitai.com/api/download/models/129692?type=Model&format=SafeTensor"
     "https://civitai.com/api/download/models/159401?type=Model&format=SafeTensor"
-    "https://civitai.com/models/231983/figurine-sliders-ntcaixyz"
+    "https://civitai.com/api/download/models/261849?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/258687?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/254267?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
